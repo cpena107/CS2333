@@ -1,0 +1,1 @@
+Write a program that reads in four numbers. Compute first + second - third + fourth Use registers or variables.
