@@ -1,0 +1,1 @@
+Allow the user to type ten integers (stored as DWORDs) (USE LOOPING) store each element in an array called myArray. When finished storing the integers, loop through and print each element of the myArray.
