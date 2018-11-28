@@ -4,8 +4,8 @@
 
 Section 01 Lecture: MW 10:50 am - 12:05 pm (1.250 EENGR)
 
-# Attendance:
-
+# Quizzes:
+https://goo.gl/forms/5i65yEVJyWEomK3r1 (Due 11/28/2018) by 11:59 pm
 
 # Homework:
 
